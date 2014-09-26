@@ -1,4 +1,7 @@
 hello-world
 ===========
 
-just another repository
+Hi, Humans!
+
+Andrew here. I am absolutely new to coding.
+I like to eat mediterrean and Japanese cuisine.
