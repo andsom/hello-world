@@ -1,7 +1,7 @@
 hello-world
 ===========
 
-Hi, Humans!
+Hello, hello
 
 Andrew here. I am absolutely new to coding.
-I like to eat mediterrean and Japanese cuisine.
+I like to hummus and yakitori.
